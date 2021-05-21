@@ -1,0 +1,13 @@
+Macchine Useate
+
+id - int
+azienda - (string) VARCHAR(25)
+nome_macchina - (string) VARCHAR(25)
+anno_immatricolazione (numero) YEAR
+colore - (string) VARCHAR(20)
+chilometri - (numero) FLOAT(6,2)
+peso - (numero) FLOAT(4,2)
+prezzo - (numero) FLOAT(6,2)
+cilindrata (numero) FLOAT(4,2)
+cambio - (string) VARCHAR(15)
+descrizione - (string) TEXT
